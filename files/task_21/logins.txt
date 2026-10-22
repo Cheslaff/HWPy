@@ -1,0 +1,15 @@
+user_123
+admin
+123user
+ab
+user-name
+very_long_username
+Test
+a_b
+A123
+user__name
+user name
+юзер123
+abc_
+a123456789012345
+a1234567890123456

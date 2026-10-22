@@ -1,0 +1,7 @@
+Contacts:
+alice@example.com
+bob@test.org
+alice@example.com
+admin@company.ru
+Write to support@service.io or bob@test.org.
+Invalid examples: no-at-sign.example.com, @missingname.com, user@.com

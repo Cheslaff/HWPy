@@ -1,0 +1,14 @@
+CASE 1: success
+operation = Data processing
+inside block: no exception
+expected log lines:
+START: Data processing
+END: Data processing
+
+CASE 2: error
+operation = Data processing
+inside block: raise ValueError("boom")
+expected log lines:
+START: Data processing
+ERROR: Data processing
+The ValueError must continue propagating.

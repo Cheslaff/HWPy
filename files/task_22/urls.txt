@@ -1,0 +1,4 @@
+Полезные сайты: https://python.org, http://example.com/page,
+https://example.com/docs/index.html и ftp://files.example.com/data.
+Ещё: https://sub.example.org/path?q=test и http://localhost:8000/demo.
+Не учитывать: ftp://example.com/file, example.com, mailto:user@example.com.

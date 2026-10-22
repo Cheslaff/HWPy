@@ -1,0 +1,11 @@
+2026-09-23 10:15:32 INFO User 123 logged in
+2026-09-23 10:16:01 ERROR User 456 authentication failed
+2026-09-23 10:17:43 WARNING User 123 changed password
+2026-09-23 10:18:10 INFO User 789 opened page
+2026-09-23 10:19:11 ERROR User 456 token expired
+2026-09-23 10:20:00 ERROR User 999 database failed
+2026-09-23 10:21:05 INFO User 456 logged in
+2026-09-23 10:22:15 WARNING User 789 too many requests
+2026-09-23 10:23:22 INFO User 123 logged out
+2026-09-23 10:24:33 INFO User 999 retried request
+2026-09-23 10:25:44 ERROR User 123 access denied

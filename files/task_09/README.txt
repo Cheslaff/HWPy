@@ -1,0 +1,1 @@
+Each line is a separate value for parse_number(value). The set contains valid-looking and invalid values. Decide whether your implementation supports integers only or general numeric strings, and handle ValueError in the caller.

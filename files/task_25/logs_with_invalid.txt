@@ -1,0 +1,5 @@
+2026-09-24 10:15:32 INFO User 123 logged in
+invalid line
+2026/09/24 10:16:04 ERROR User 456 wrong date format
+2026-09-24 10:17:21 DEBUG User 123 unsupported level
+2026-09-24 10:18:45 WARNING User 789 too many requests
