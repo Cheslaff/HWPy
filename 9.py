@@ -8,6 +8,6 @@ def parse_number(value):
         raise ValueError("Некорректное значение")
 
 try:
-    print(parse_number(input("Enter a number: ")))
+    print(parse_number(input("Введите число: ")))
 except ValueError as e:
     print(f"Неправильный ввод: {e}")
