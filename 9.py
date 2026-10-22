@@ -7,4 +7,7 @@ def parse_number(value):
     else:
         raise ValueError("Некорректное значение")
 
-print(parse_number("-23.056"))
+try:
+    print(parse_number(input("Enter a number: ")))
+except ValueError as e:
+    print(f"Неправильный ввод: {e}")
